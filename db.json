@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "BAD",
+      "value": 10
+    },
+    {
+      "id": 2,
+      "name": "CAN BE BETTER",
+      "value": 5
+    },
+    {
+      "id": 3,
+      "name": "AMAZING",
+      "value": 5
+    }
+  ]
+}
