@@ -2,18 +2,28 @@
   "data": [
     {
       "id": 1,
-      "name": "BAD",
-      "value": 10
+      "name": "Bad",
+      "value": 12
     },
     {
       "id": 2,
-      "name": "CAN BE BETTER",
-      "value": 5
+      "name": "Could be better",
+      "value": 14
     },
     {
       "id": 3,
-      "name": "AMAZING",
-      "value": 5
+      "name": "Neutral",
+      "value": 23
+    },
+    {
+      "id": 4,
+      "name": "Really good",
+      "value": 54
+    },
+    {
+      "id": 5,
+      "name": "Amazing",
+      "value": 26
     }
   ]
 }
